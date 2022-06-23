@@ -1,59 +1,69 @@
 {
-   "posts":[
-      {
-         "id":1,
-         "title":"Blutgrätsche",
-         "description":"rücksichtsloses, die Verletzung des Gegenspielers bewusst in Kauf nehmendes (von hinten ausgeführtes) Tackling"
-      },
-      {
-         "id":2,
-         "title":"Ablösesumme",
-         "description":"Geldbetrag, der bei einem Transfer gezahlt wird."
-      },
-      {
-         "id":3,
-         "title":"Über den Ball säbeln",
-         "description":"Den Ball beim Schussversuch verfehlen."
-      },
-      {
-         "id":4,
-         "title":"Defensive",
-         "description":"Jener Teil einer Mannschaft, der vor allem mit der Verteidigung beschäftigt ist."
-      },
-      {
-         "id":5,
-         "title":"Effet",
-         "description":"Kurvenartige Flugrichtung des Balles, die durch dezentrales Treffen verursacht wird, in Österreich gerne Fetten genannt."
-      },
-      {
-         "id":6,
-         "title":"Derby",
-         "description":"Spiele zwischen Mannschaften aus einer Stadt oder Region (z. B. Ruhrgebiet, Niederrhein)."
-      },
-      {
-         "id":7,
-         "title":"Gurkenpass",
-         "description":"Ein schlecht gespielter Pass, der den intendierten Mitspieler nicht erreicht"
-      },
-      {
-         "id":8,
-         "title":"Handschrift",
-         "description":"Besondere Spielweise einer Mannschaft, die auf den Einfluss des Trainers zurück geführt wird."
-      },
-      {
-         "id":9,
-         "title":"Kantersieg",
-         "description":"Ein sehr hoher Sieg."
-      },
-      {
-         "id":10,
-         "title":"Schwalbe",
-         "description":" Ein Spieler, der versucht, einen Elfmeter/Freistoss zu schinden, obwohl kein Foul begangen worden ist. Wird vom Schiedsricht mit einer gelben Karte geahndet, wenn er es denn erkennt(Unsportlichkeit)."
-      },
-      {
-         "id":11,
-         "title":"Steilpass",
-         "description":"Meistens parallel zur Außenlinie gespielter Ball in den freien Raum oder zu einem weit vorne frei stehenden Mitspieler."
-      }
-   ]
+	"posts": [{
+			"id": 1,
+			"title": "Blutgrätsche",
+			"description": "rücksichtsloses, die Verletzung des Gegenspielers bewusst in Kauf nehmendes (von hinten ausgeführtes) Tackling"
+		},
+		{
+			"id": 2,
+			"title": "Ablösesumme",
+			"description": "Geldbetrag, der bei einem Transfer gezahlt wird."
+		},
+		{
+			"id": 3,
+			"title": "Über den Ball säbeln",
+			"description": "Den Ball beim Schussversuch verfehlen."
+		},
+		{
+			"id": 4,
+			"title": "Defensive",
+			"description": "Jener Teil einer Mannschaft, der vor allem mit der Verteidigung beschäftigt ist."
+		},
+		{
+			"id": 5,
+			"title": "Effet",
+			"description": "Kurvenartige Flugrichtung des Balles, die durch dezentrales Treffen verursacht wird, in Österreich gerne Fetten genannt."
+		},
+		{
+			"id": 6,
+			"title": "Derby",
+			"description": "Spiele zwischen Mannschaften aus einer Stadt oder Region (z. B. Ruhrgebiet, Niederrhein)."
+		},
+		{
+			"id": 7,
+			"title": "Gurkenpass",
+			"description": "Ein schlecht gespielter Pass, der den intendierten Mitspieler nicht erreicht"
+		},
+		{
+			"id": 8,
+			"title": "Handschrift",
+			"description": "Besondere Spielweise einer Mannschaft, die auf den Einfluss des Trainers zurück geführt wird."
+		},
+		{
+			"id": 9,
+			"title": "Kantersieg",
+			"description": "Ein sehr hoher Sieg."
+		},
+		{
+			"id": 10,
+			"title": "Schwalbe",
+			"description": " Ein Spieler, der versucht, einen Elfmeter/Freistoss zu schinden, obwohl kein Foul begangen worden ist. Wird vom Schiedsricht mit einer gelben Karte geahndet, wenn er es denn erkennt(Unsportlichkeit)."
+		},
+		{
+			"id": 11,
+			"title": "Steilpass",
+			"description": "Meistens parallel zur Außenlinie gespielter Ball in den freien Raum oder zu einem weit vorne frei stehenden Mitspieler."
+		}
+	],
+	"comments": [{
+			"id": 1,
+			"body": "comment 1",
+			"postId": 1
+		},
+		{
+			"id": 2,
+			"body": "comment 2",
+			"postId": 1
+		}
+	]
 }
