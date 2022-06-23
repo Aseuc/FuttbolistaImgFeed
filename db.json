@@ -54,6 +54,51 @@
 			"id": 11,
 			"title": "Steilpass",
 			"description": "Meistens parallel zur Außenlinie gespielter Ball in den freien Raum oder zu einem weit vorne frei stehenden Mitspieler."
+		},
+		{
+			"id": 12,
+			"title": "Badkicker",
+			"description": "Spieler, die im Training und unbedeutenden Spielen hervorragend spielen, dies aber in wichtigen Spielen nur äußerst selten umsetzen können."
+		},
+		{
+			"id": 13,
+			"title": "Schützenfest",
+			"description": "Bei einem mehr als deutlichen Sieg mit vielen Toren spricht man von einem Schützenfest. Der Begriff kommt daher, dass in einem Team viele treffsichere Schützen sind, die den Ball oft im Tor versenken."
+		},
+		{
+			"id": 14,
+			"title": "Notbremse",
+			"description": "Beim Fußball versteht man unter einer Notbremse ein Foul des Verteidigers an einem Stürmer, der sich in einer hervorragenden Torschußposition befindet."
+		},
+		{
+			"id": 15,
+			"title": "Hooligan",
+			"description": "Ein Hooligan - auch Hool genannt - ist Mitglied einer meist aggressiv auftretenden Fangruppierung. In der Regel handelt es sich bei Hooligans um junge, männliche Personen."
+		},
+		{
+			"id": 16,
+			"title": "Hattrick",
+			"description": "In erster Linie meint man damit einen dreifachen Torerfolg eines Spielers innerhalb einer Partie. "
+		},
+		{
+			"id": 17,
+			"title": "Fallrückzieher",
+			"description": "Hier handelt es sich um eine besondere Schussvariante. Dabei steht der Schütze mit dem Rücken zum Tor und nimmt den hoch anfliegenden Ball volley aus der Luft."
+		},
+		{
+			"id": 18,
+			"title": "Fankurve",
+			"description": "Die Fankurve ist ein Bereich der Zuschauerränge, in dem meist die Anhänger desselben Vereins stehen. Früher waren diese Bereiche durchgehend Stehplatzbereiche. Mittlerweile sind sie oft als Sitzplätze ausgegeben. Da sich hier aber zumeist die engagiertesten Fangruppierungen positionieren, wird das Sitzen in diesen Bereichen nur ungern gesehen."
+		},
+		{
+			"id": 19,
+			"title": "Abstauber",
+			"description": "Als Abstauber bezeichnet man ein Tor, bei dem der Torschütze keine Mühe hat, den Ball über die Torlinie zu befördern."
+		},
+		{
+			"id": 20,
+			"title": "Abseits",
+			"description": "Als erstes kommt auch direkt einer der meistgenannten und -diskutierten Begriffe - das Abseits. Beim Abseits handelt es sich um eine Regelverletzung der angreifenden Mannschaft, die nur bei einem Vorwärtspass möglich ist, wenn sich der Passempfänger in der gegnerischen Hälfte befindet."
 		}
   ],
   "comments": [
