@@ -55,17 +55,5 @@
          "title":"Steilpass",
          "description":"Meistens parallel zur Außenlinie gespielter Ball in den freien Raum oder zu einem weit vorne frei stehenden Mitspieler."
       }
-   ],
-   "comments":[
-      {
-         "id":1,
-         "body":"comment 1",
-         "postId":1
-      },
-      {
-         "id":2,
-         "body":"comment 2",
-         "postId":1
-      }
    ]
 }
