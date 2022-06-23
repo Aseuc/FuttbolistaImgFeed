@@ -1,4 +1,4 @@
-
+{
 	"posts": [{
 			"id": 1,
 			"title": "Blutgrätsche",
@@ -14,4 +14,5 @@
 			"title": "Über den Ball säbeln",
 			"description": "Den Ball beim Schussversuch verfehlen."
 		}
-	
+	]}
+}
