@@ -14,15 +14,4 @@
 			"title": "Über den Ball säbeln",
 			"description": "Den Ball beim Schussversuch verfehlen."
 		}
-	"comments": [{
-			"id": 1,
-			"body": "comment 1",
-			"postId": 1
-		},
-		{
-			"id": 2,
-			"body": "comment 2",
-			"postId": 1
-		}
-	]
 }
