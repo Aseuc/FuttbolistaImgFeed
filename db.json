@@ -1,20 +1,20 @@
 {
   "posts": [
-    {
-      "id": 1,
-      "title": "gofipdjsgidfsjifdsgdsfhgfdshdfg",
-      "description": "this is description 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2",
-      "description": "this is description 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3",
-      "description": "this is description 3"
-    },
+{
+			"id": 1,
+			"title": "Blutgrätsche",
+			"description": "Rücksichtsloses, die Verletzung des Gegenspielers bewusst in Kauf nehmendes (von hinten ausgeführtes) Tackling"
+		},
+		{
+			"id": 2,
+			"title": "Ablösesumme",
+			"description": "Geldbetrag, der bei einem Transfer gezahlt wird."
+		},
+		{
+			"id": 3,
+			"title": "Über den Ball säbeln",
+			"description": "Den Ball beim Schussversuch verfehlen."
+		},
     {
 			"id": 4,
 			"title": "Defensive",
